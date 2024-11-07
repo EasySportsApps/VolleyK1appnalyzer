@@ -10,7 +10,7 @@ VolleyK1@ppnalyzer is a free interactive web application developed with R Studio
 
 Despite this limitation, it is the **first application in the world** 🌍 that allows the real-time construction of **social networks** to visualize how the game's actions are interrelated spatially in a volleyball team using the 5-1 attack system (5 attackers and 1 setter). 
 
-![Social Network Example](C:\Users\rhile\Desktop\VolleyK1appnalyzer\social_network_demo.png)
+![Social Network Example](social_network_demo.png)
 
 Additionally, it is the first application to enable **real-time calculation of transition probabilities** and **multiple correspondence analysis** for volleyball data. This makes it a unique resource for researchers and sports professionals, providing a comprehensive analysis tool for volleyball. 
 
