@@ -2,7 +2,7 @@
 
 ## 🌐 Online access to VolleyK1@ppnalyzer
 
-[VolleyK1@ppnalyzer v1.0](https://connect.posit.cloud/EasySportsApps/content/01930690-da6c-e4ed-b864-f54b530d01ac)
+[VolleyK1@ppnalyzer v1.0](https://raul-datexbio.shinyapps.io/VolleyK1appnalyzer/)
 
 ## 📝 About VolleyK1@ppnalyzer
 
