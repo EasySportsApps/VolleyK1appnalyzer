@@ -2,7 +2,7 @@
 
 ## 🌐 Online access to VolleyK1@ppnalyzer
 
-[VolleyK1@ppnalyzer v1.0](https://raul-datexbio.shinyapps.io/VolleyK1appnalyzer/)
+[VolleyK1@ppnalyzer v1.0](https://easysportsapps.shinyapps.io/volleyk1appnalyzer/)
 
 ## 📝 About VolleyK1@ppnalyzer
 
@@ -22,9 +22,9 @@ In future versions of VolleyK1@ppnalyzer, we are considering adding the followin
 - **📊 Social network visualization on volleyball court**: visualize the social network graph directly within a volleyball court layout to facilitate the interpretation of the results.
 - **⏱️ Enhanced real-Time interactivity**: develop further real-time features to increase usability and responsiveness for users.
 
-If you have any suggestions for improvement, feel free to share them in the **Discussions** section of our GitHub repository. 💬
+If you have any suggestions for improvement, feel free to share them in the [Discussions](https://github.com/EasySportsApps/VolleyK1appnalyzer/discussions) section 💬 of our GitHub repository or send us an [email](mailto:easysportsappsproject@gmail.com) 📧.  
 
-To support the inclusion of these new features, contributions from app users through the **GitHub Sponsors crowdfunding campaign** are crucial. Thank you! 🙏
+To support the inclusion of these new features, contributions from app users through our [donation link](https://paypal.me/rhileno?country.x=ES&locale.x=es_ES) are highly appreciated. Thank you! 🙏
 
 ## 📝 About EasySportsApps project
 
