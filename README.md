@@ -24,11 +24,11 @@ In future versions of VolleyK1@ppnalyzer, we are considering adding the followin
 
 If you have any suggestions for improvement, feel free to share them in the [Discussions](https://github.com/EasySportsApps/VolleyK1appnalyzer/discussions) section 💬 of our GitHub repository or send us an [email](mailto:easysportsappsproject@gmail.com) 📧.  
 
-To support the inclusion of these new features, contributions from app users through our [donation link](https://paypal.me/rhileno?country.x=ES&locale.x=es_ES) are highly appreciated. Thank you! 🙏
+To support the inclusion of these new features, contributions from app users through our [donation link](https://www.paypal.com/donate/?hosted_button_id=BA84P5Y2MC7MN) are highly appreciated. Thank you! 🙏
 
 ## 📝 About EasySportsApps project
 
-VolleyK1@ppnalyzer is part of the [EasySportsApps](https://github.com/EasySportsApps) project, driven and developed by [Raúl Hileno, PhD](https://orcid.org/0000-0003-3447-395X). The project focuses on creating practical and innovative digital solutions that address the dynamic needs of professionals in physical activity and sports.
+VolleyK1@ppnalyzer is part of the [EasySportsApps](https://github.com/EasySportsApps) project, driven and developed by [Raúl Hileno, PhD](https://raulhilenophd-nextlevelstatsandapps4u.netlify.app/). The project focuses on creating practical and innovative digital solutions that address the dynamic needs of professionals in physical activity and sports.
 
 ## 📜 VolleyK1@ppnalyzer license
 
