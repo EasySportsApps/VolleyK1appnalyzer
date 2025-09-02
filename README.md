@@ -20,7 +20,7 @@ VolleyK1@ppnalyzer is the world’s first application that enables real-time con
 In future versions of VolleyK1@ppnalyzer, we are considering adding the following features:
 
 - **<img src="https://img.icons8.com/ios-filled/24/000000/network.png"/> Social network visualization on volleyball court**: visualize the social network graph directly within a volleyball court layout to facilitate the interpretation of the results.
-- **<img src="https://img.icons8.com/ios-filled/24/000000/stopwatch.png"/> Enhanced real-Time interactivity**: develop further real-time features to increase usability and responsiveness for users.
+- **<img src="https://img.icons8.com/ios-filled/24/000000/stopwatch.png"/> Enhanced real-time interactivity**: develop further real-time features to increase usability and responsiveness for users.
 
 If you have any suggestions for improvement, feel free to share them in the [Discussions](https://github.com/EasySportsApps/VolleyK1appnalyzer/discussions) section of our GitHub repository or send us an [email](mailto:easysportsappsproject@gmail.com).  
 
@@ -35,10 +35,10 @@ VolleyK1@ppnalyzer is part of the [EasySportsApps](https://github.com/EasySports
 VolleyK1@ppnalyzer is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)).
 
 You are free to:
-- **<img src="https://img.icons8.com/ios-filled/24/000000/link.png"/> Share** — Copy and redistribute the material in any medium or format.
+- **<img src="https://img.icons8.com/ios-filled/24/000000/link.png"/> Share**: Copy and redistribute the material in any medium or format.
 
 Under the following terms:
-- **<img src="https://img.icons8.com/ios-filled/24/000000/user.png"/> Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- **<img src="https://img.icons8.com/ios-filled/24/000000/no-cash.png"/> NonCommercial** — You may not use the material for commercial purposes.
-- **<img src="https://img.icons8.com/material-rounded/24/000000/equal-sign.png"/> NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
-- **<img src="https://img.icons8.com/material-rounded/24/000000/unlock.png"/> No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others.
+- **<img src="https://img.icons8.com/ios-filled/24/000000/user.png"/> Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **<img src="https://img.icons8.com/ios-filled/24/000000/no-cash.png"/> NonCommercial**: You may not use the material for commercial purposes.
+- **<img src="https://img.icons8.com/material-rounded/24/000000/equal-sign.png"/> NoDerivatives**: If you remix, transform, or build upon the material, you may not distribute the modified material.
+- **<img src="https://img.icons8.com/material-rounded/24/000000/unlock.png"/> No additional restrictions**: You may not apply legal terms or technological measures that legally restrict others.
