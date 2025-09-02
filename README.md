@@ -6,7 +6,7 @@
 
 ## <img src="https://img.icons8.com/ios-filled/24/000000/document.png"/> About VolleyK1@ppnalyzer
 
-VolleyK1@ppnalyzer is a free, interactive web application developed with R Studio and Shiny. This innovative tool is designed to analyze the **complex 1 or side-out phase (K1) in volleyball matches** 🏐, either in person or remotely via YouTube videos 📹.
+VolleyK1@ppnalyzer is a free, interactive web application developed with R Studio and Shiny. This innovative tool is designed to analyze the **complex 1 or side-out phase (K1) in volleyball matches**, either in person or remotely via YouTube videos.
 
 VolleyK1@ppnalyzer is the world’s first application that enables real-time construction of **social network graphs**, visualizing how the K1 game’s actions in a volleyball match are spatially interrelated. Additionally, it’s the first app to allow real-time calculation of **attack zone transition probabilities** and post-match **multiple correspondence analysis (MCA)** for volleyball data.
 
@@ -19,8 +19,8 @@ VolleyK1@ppnalyzer is the world’s first application that enables real-time con
 
 In future versions of VolleyK1@ppnalyzer, we are considering adding the following features:
 
-- **📊 Social network visualization on volleyball court**: visualize the social network graph directly within a volleyball court layout to facilitate the interpretation of the results.
-- **⏱️ Enhanced real-Time interactivity**: develop further real-time features to increase usability and responsiveness for users.
+- **<img src="https://img.icons8.com/ios-filled/24/000000/combo-chart.png"/> Social network visualization on volleyball court**: visualize the social network graph directly within a volleyball court layout to facilitate the interpretation of the results.
+- **<img src="https://img.icons8.com/ios-filled/24/000000/stopwatch.png"/> Enhanced real-Time interactivity**: develop further real-time features to increase usability and responsiveness for users.
 
 If you have any suggestions for improvement, feel free to share them in the [Discussions](https://github.com/EasySportsApps/VolleyK1appnalyzer/discussions) section 💬 of our GitHub repository or send us an [email](mailto:easysportsappsproject@gmail.com).  
 
