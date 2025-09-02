@@ -19,10 +19,10 @@ VolleyK1@ppnalyzer is the world’s first application that enables real-time con
 
 In future versions of VolleyK1@ppnalyzer, we are considering adding the following features:
 
-- **<img src="https://img.icons8.com/ios-filled/24/000000/combo-chart.png"/> Social network visualization on volleyball court**: visualize the social network graph directly within a volleyball court layout to facilitate the interpretation of the results.
+- **<img src="https://img.icons8.com/ios-filled/24/000000/network.png"/> Social network visualization on volleyball court**: visualize the social network graph directly within a volleyball court layout to facilitate the interpretation of the results.
 - **<img src="https://img.icons8.com/ios-filled/24/000000/stopwatch.png"/> Enhanced real-Time interactivity**: develop further real-time features to increase usability and responsiveness for users.
 
-If you have any suggestions for improvement, feel free to share them in the [Discussions](https://github.com/EasySportsApps/VolleyK1appnalyzer/discussions) section 💬 of our GitHub repository or send us an [email](mailto:easysportsappsproject@gmail.com).  
+If you have any suggestions for improvement, feel free to share them in the [Discussions](https://github.com/EasySportsApps/VolleyK1appnalyzer/discussions) section of our GitHub repository or send us an [email](mailto:easysportsappsproject@gmail.com).  
 
 To support the inclusion of these new features, contributions from app users through our [donation link](https://www.paypal.com/donate/?hosted_button_id=BA84P5Y2MC7MN) are highly appreciated. Thank you!
 
