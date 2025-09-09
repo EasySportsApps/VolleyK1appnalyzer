@@ -6,7 +6,7 @@
 
 ## <img src="https://img.icons8.com/ios-filled/24/000000/document.png"/> About VolleyK1@ppnalyzer
 
-VolleyK1@ppnalyzer is a free and interactive web application developed with R Studio and Shiny. This innovative tool is designed to analyze the **complex 1 or side-out phase (K1) in volleyball matches**, either in person or remotely via YouTube videos.
+VolleyK1@ppnalyzer is a free and interactive Shiny web app, created and developed by [Raúl Hileno, PhD](https://raulhilenophd-nextlevelstatsandapps4u.netlify.app/), as part of the [EasySportsApps](https://github.com/EasySportsApps) GitHub project. This innovative tool is designed to analyze the **complex 1 or side-out phase (K1) in volleyball matches**, either in person or remotely via YouTube videos.
 
 VolleyK1@ppnalyzer is the world’s first application that enables real-time construction of **social network graphs**, visualizing how the K1 game’s actions in a volleyball match are spatially interrelated. Additionally, it’s the first app to allow real-time calculation of **attack zone transition probabilities** and post-match **multiple correspondence analysis (MCA)** for volleyball data.
 
@@ -25,10 +25,6 @@ In future versions of VolleyK1@ppnalyzer, we are considering adding the followin
 If you have any suggestions for improvement, feel free to share them in the [Discussions](https://github.com/EasySportsApps/VolleyK1appnalyzer/discussions) section of our GitHub repository or send us an [email](mailto:easysportsappsproject@gmail.com).  
 
 To support the inclusion of these new features, contributions from app users through our [donation link](https://www.paypal.com/donate/?hosted_button_id=BA84P5Y2MC7MN) are highly appreciated. Thank you!
-
-## <img src="https://img.icons8.com/ios-filled/24/000000/document.png"/>  About EasySportsApps project
-
-VolleyK1@ppnalyzer is part of the [EasySportsApps](https://github.com/EasySportsApps) project, driven and developed by [Raúl Hileno, PhD](https://raulhilenophd-nextlevelstatsandapps4u.netlify.app/). The project focuses on creating practical and innovative digital solutions that address the dynamic needs of professionals in health, physical activity and sports health.
 
 ## <img src="https://img.icons8.com/ios-filled/24/000000/copyright.png"/> VolleyK1@ppnalyzer license
 
