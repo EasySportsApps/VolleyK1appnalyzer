@@ -28,7 +28,7 @@ To support the inclusion of these new features, contributions from app users thr
 
 ## <img src="https://img.icons8.com/ios-filled/24/000000/document.png"/>  About EasySportsApps project
 
-VolleyK1@ppnalyzer is part of the [EasySportsApps](https://github.com/EasySportsApps) project, driven and developed by [Raúl Hileno, PhD](https://raulhilenophd-nextlevelstatsandapps4u.netlify.app/). The project focuses on creating practical and innovative digital solutions that address the dynamic needs of professionals in physical activity and sports.
+VolleyK1@ppnalyzer is part of the [EasySportsApps](https://github.com/EasySportsApps) project, driven and developed by [Raúl Hileno, PhD](https://raulhilenophd-nextlevelstatsandapps4u.netlify.app/). The project focuses on creating practical and innovative digital solutions that address the dynamic needs of professionals in health, physical activity and sports health.
 
 ## <img src="https://img.icons8.com/ios-filled/24/000000/copyright.png"/> VolleyK1@ppnalyzer license
 
