@@ -6,7 +6,7 @@
 
 ## <img src="https://img.icons8.com/ios-filled/24/000000/document.png"/> About VolleyK1@ppnalyzer
 
-VolleyK1@ppnalyzer is a free, interactive web application developed with R Studio and Shiny. This innovative tool is designed to analyze the **complex 1 or side-out phase (K1) in volleyball matches**, either in person or remotely via YouTube videos.
+VolleyK1@ppnalyzer is a free and interactive web application developed with R Studio and Shiny. This innovative tool is designed to analyze the **complex 1 or side-out phase (K1) in volleyball matches**, either in person or remotely via YouTube videos.
 
 VolleyK1@ppnalyzer is the world’s first application that enables real-time construction of **social network graphs**, visualizing how the K1 game’s actions in a volleyball match are spatially interrelated. Additionally, it’s the first app to allow real-time calculation of **attack zone transition probabilities** and post-match **multiple correspondence analysis (MCA)** for volleyball data.
 
