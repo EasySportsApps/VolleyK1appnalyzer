@@ -4,6 +4,10 @@
 
 [VolleyK1@ppnalyzer v1.0](https://easysportsapps.shinyapps.io/volleyk1appnalyzer/)
 
+## <img src="https://img.icons8.com/ios-filled/24/000000/youtube--v1.png"/> How to use VolleyK1@ppnalyzer in 1 minute
+
+[![How to use VolleyK1@ppnalyzer in 1 minute | EasySportsApps](https://img.youtube.com/vi/sY2_WEJQPoU/hqdefault.jpg)](https://www.youtube.com/watch?v=t9S3npJnSsA)
+
 ## <img src="https://img.icons8.com/ios-filled/24/000000/document.png"/> About VolleyK1@ppnalyzer
 
 VolleyK1@ppnalyzer is a free and interactive Shiny web app, created and developed by [Raúl Hileno, PhD](https://raulhilenophd-nextlevelstatsandapps4u.netlify.app/), as part of the [EasySportsApps](https://github.com/EasySportsApps) GitHub project. This innovative tool is designed to analyze the **complex 1 or side-out phase in volleyball matches**, either in person or remotely via YouTube videos.
